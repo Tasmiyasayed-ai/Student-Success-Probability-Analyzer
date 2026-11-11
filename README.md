@@ -72,3 +72,25 @@ Through this project, I explored:
 Author
 
 Developed as an academic project using R Programming and R Shiny.
+
+## Project Screenshots
+
+### Home Dashboard
+![Home Dashboard](home-dashboard.png)
+
+### Probability Analysis
+![Probability Analysis](probability-analysis-dashboard.png)
+
+### Student Prediction Results
+![Student Prediction Results](student-prediction-result.png)
+
+### Dataset
+![Dataset](dataset.png)
+
+### Statistical Model Formula
+![Statistical Model](model-formula.png)
+
+### About the Project
+![About Project](about-project.png)
+
+
